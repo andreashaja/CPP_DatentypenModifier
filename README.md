@@ -7,9 +7,15 @@
 
 Dieses Projekt ist Teil eines Online-Kurses zur Programmiersprache C++. Hier geht es um die richtige Verwendung von elementaren Datentypen (bool, char, int, float, double) und Modifiern (short, long, unsigned, signed). Die Datei `main.pp`enthält vier Übungen mit unterschiedlichen Schwerpunkten, die dich im sicheren Umgang mit Datentypen fit machen sollen.
 
-Die Lösungen kannst du direkt in den Code einfügen. Wenn du nicht weiter kommst, dann findest du im Ordner `solution` eine verschlüsselte ZIP-Datei, in der die Musterlösung enthalten ist. Das Passwort zur Entschlüsselung findest du im Begleitheft. 
+Die Lösungen kannst du direkt in den Code einfügen. Wenn du nicht weiter kommst, dann findest du im Ordner `solution` eine verschlüsselte ZIP-Datei, in der die Musterlösung enthalten ist. Das Passwort zur Entschlüsselung findest du im Begleitheft. Du kannst die Datei mit den folgenden Befehlen entschlüsseln: 
+````
+cd solution/
+unzip -P varmod2020 solution.zip 
+````
+Nach dem Entpacken findest du im Ordner `solutions` die entpackte Quellcode-Datei mit den Lösungen.
 
-*Hinweis*: Das zugehörige Begleitheft inkl. der Links zu den Videos findest du [hier](https://go.tfe.academy/2012041).
+
+*Hinweis*: Das zugehörige Begleitheft inkl. der Links zu den Videos findest du [hier](https://go.tfe.academy/2012047).
 
 
 
